@@ -2,3 +2,6 @@ terraform.tfvars
 creds.json
 .terraform*
 terraform.tfstate*
+*.cert
+template.json
+
