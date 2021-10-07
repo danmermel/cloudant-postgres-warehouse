@@ -1,50 +1,50 @@
-{"name":"Alabama","abbreviation":"AL","capital":"Montgomery","city":"Birmingham","population":4833722,"area":135767,"waterarea":4597,"landarea":131170,"houseseats":7,"statehood":"1819-12-14","group":"US States"}
-{"name":"Alaska","abbreviation":"AK","capital":"Juneau","city":"Anchorage","population":735132,"area":1723337,"waterarea":245383,"landarea":1477950,"houseseats":1,"statehood":"1959-01-03","group":"US States"}
-{"name":"Arizona","abbreviation":"AZ","capital":"Phoenix","city":"Phoenix","population":6626624,"area":295233,"waterarea":1026,"landarea":294207,"houseseats":9,"statehood":"1912-02-14","group":"US States"}
-{"name":"Arkansas","abbreviation":"AR","capital":"Little Rock","city":"Little Rock","population":2959373,"area":137733,"waterarea":2960,"landarea":134770,"houseseats":4,"statehood":"1836-06-15","group":"US States"}
-{"name":"California","abbreviation":"CA","capital":"Sacramento","city":"Los Angeles","population":38332521,"area":423968,"waterarea":20502,"landarea":403466,"houseseats":53,"statehood":"1850-09-09","group":"US States"}
-{"name":"Colorado","abbreviation":"CO","capital":"Denver","city":"Denver","population":5268367,"area":269602,"waterarea":1171,"landarea":268432,"houseseats":7,"statehood":"1876-08-01","group":"US States"}
-{"name":"Connecticut","abbreviation":"CT","capital":"Hartford","city":"Bridgeport","population":3596080,"area":14356,"waterarea":1816,"landarea":12541,"houseseats":5,"statehood":"1788-01-09","group":"US States"}
-{"name":"Delaware","abbreviation":"DE","capital":"Dover","city":"Wilmington","population":925749,"area":6446,"waterarea":1399,"landarea":5048,"houseseats":1,"statehood":"1787-12-07","group":"US States"}
-{"name":"Florida","abbreviation":"FL","capital":"Tallahassee","city":"Jacksonville","population":19552860,"area":170312,"waterarea":31424,"landarea":138888,"houseseats":27,"statehood":"1845-03-03","group":"US States"}
-{"name":"Georgia","abbreviation":"GA","capital":"Atlanta","city":"Atlanta","population":9992167,"area":153910,"waterarea":4950,"landarea":148958,"houseseats":14,"statehood":"1788-01-02","group":"US States"}
-{"name":"Hawaii","abbreviation":"HI","capital":"Honolulu","city":"Honolulu","population":1404054,"area":28314,"waterarea":11678,"landarea":16635,"houseseats":2,"statehood":"1959-08-20","group":"US States"}
-{"name":"Idaho","abbreviation":"ID","capital":"Boise","city":"Boise","population":1612136,"area":216443,"waterarea":2398,"landarea":214044,"houseseats":2,"statehood":"1890-07-03","group":"US States"}
-{"name":"Illinois","abbreviation":"IL","capital":"Springfield","city":"Chicago","population":12882135,"area":149997,"waterarea":6203,"landarea":143794,"houseseats":18,"statehood":"1818-12-03","group":"US States"}
-{"name":"Indiana","abbreviation":"IN","capital":"Indianapolis","city":"Indianapolis","population":6570902,"area":94327,"waterarea":1536,"landarea":92789,"houseseats":9,"statehood":"1816-12-11","group":"US States"}
-{"name":"Iowa","abbreviation":"IA","capital":"Des Moines","city":"Des Moines","population":3090416,"area":145746,"waterarea":1077,"landarea":144669,"houseseats":4,"statehood":"1846-12-28","group":"US States"}
-{"name":"Kansas","abbreviation":"KS","capital":"Topeka","city":"Wichita","population":2893957,"area":213099,"waterarea":1347,"landarea":211755,"houseseats":4,"statehood":"1861-01-29","group":"US States"}
-{"name":"Kentucky","abbreviation":"KY","capital":"Frankfort","city":"Louisville","population":4395295,"area":104656,"waterarea":2385,"landarea":102268,"houseseats":6,"statehood":"1792-06-01","group":"US States"}
-{"name":"Louisiana","abbreviation":"LA","capital":"Baton Rouge","city":"New Orleans","population":4625470,"area":135658,"waterarea":23761,"landarea":111898,"houseseats":6,"statehood":"1812-04-30","group":"US States"}
-{"name":"Maine","abbreviation":"ME","capital":"Augusta","city":"Portland","population":1328302,"area":91634,"waterarea":11751,"landarea":79883,"houseseats":2,"statehood":"1820-03-15","group":"US States"}
-{"name":"Maryland","abbreviation":"MD","capital":"Annapolis","city":"Baltimore","population":5928814,"area":32131,"waterarea":6990,"landarea":25141,"houseseats":8,"statehood":"1788-04-28","group":"US States"}
-{"name":"Massachusetts","abbreviation":"MA","capital":"Boston","city":"Boston","population":6692824,"area":27335,"waterarea":7133,"landarea":20202,"houseseats":9,"statehood":"1788-02-06","group":"US States"}
-{"name":"Michigan","abbreviation":"MI","capital":"Lansing","city":"Detroit","population":9895622,"area":250488,"waterarea":104053,"landarea":146435,"houseseats":14,"statehood":"1837-01-26","group":"US States"}
-{"name":"Minnesota","abbreviation":"MN","capital":"St. Paul","city":"Minneapolis","population":5420380,"area":225163,"waterarea":18930,"landarea":206233,"houseseats":8,"statehood":"1858-05-11","group":"US States"}
-{"name":"Mississippi","abbreviation":"MS","capital":"Jackson","city":"Jackson","population":2991207,"area":125438,"waterarea":3908,"landarea":121530,"houseseats":4,"statehood":"1817-12-10","group":"US States"}
-{"name":"Missouri","abbreviation":"MO","capital":"Jefferson City","city":"Kansas City","population":6021988,"area":180540,"waterarea":2499,"landarea":178041,"houseseats":8,"statehood":"1821-08-10","group":"US States"}
-{"name":"Montana","abbreviation":"MT","capital":"Helena","city":"Billings","population":1015165,"area":380832,"waterarea":3869,"landarea":376962,"houseseats":1,"statehood":"1889-11-08","group":"US States"}
-{"name":"Nebraska","abbreviation":"NE","capital":"Lincoln","city":"Omaha","population":1868516,"area":200330,"waterarea":1357,"landarea":198973,"houseseats":3,"statehood":"1867-03-01","group":"US States"}
-{"name":"Nevada","abbreviation":"NV","capital":"Carson City","city":"Las Vegas","population":2790136,"area":286380,"waterarea":2049,"landarea":284331,"houseseats":4,"statehood":"1864-10-31","group":"US States"}
-{"name":"New Hampshire","abbreviation":"NH","capital":"Concord","city":"Manchester","population":1323459,"area":24214,"waterarea":1028,"landarea":23188,"houseseats":2,"statehood":"1788-06-21","group":"US States"}
-{"name":"New Jersey","abbreviation":"NJ","capital":"Trenton","city":"Newark","population":8899339,"area":22592,"waterarea":3543,"landarea":19047,"houseseats":12,"statehood":"1787-12-18","group":"US States"}
-{"name":"New Mexico","abbreviation":"NM","capital":"Santa Fe","city":"Albuquerque","population":2085287,"area":314917,"waterarea":756,"landarea":314160,"houseseats":3,"statehood":"1912-01-06","group":"US States"}
-{"name":"New York","abbreviation":"NY","capital":"Albany","city":"New York","population":19651127,"area":141297,"waterarea":19241,"landarea":122056,"houseseats":27,"statehood":"1788-07-26","group":"US States"}
-{"name":"North Carolina","abbreviation":"NC","capital":"Raleigh","city":"Charlotte","population":9848060,"area":139391,"waterarea":13471,"landarea":125920,"houseseats":13,"statehood":"1789-11-21","group":"US States"}
-{"name":"North Dakota","abbreviation":"ND","capital":"Bismarck","city":"Fargo","population":723393,"area":183107,"waterarea":4398,"landarea":178712,"houseseats":1,"statehood":"1889-11-02","group":"US States"}
-{"name":"Ohio","abbreviation":"OH","capital":"Columbus","city":"Columbus","population":11570808,"area":116099,"waterarea":10269,"landarea":105830,"houseseats":16,"statehood":"1803-03-01","group":"US States"}
-{"name":"Oklahoma","abbreviation":"OK","capital":"Oklahoma City","city":"Oklahoma City","population":3850568,"area":181038,"waterarea":3377,"landarea":177660,"houseseats":5,"statehood":"1907-11-16","group":"US States"}
-{"name":"Oregon","abbreviation":"OR","capital":"Salem","city":"Portland","population":3930065,"area":254800,"waterarea":6193,"landarea":248608,"houseseats":5,"statehood":"1859-02-14","group":"US States"}
-{"name":"Pennsylvania","abbreviation":"PA","capital":"Harrisburg","city":"Philadelphia","population":12773801,"area":119279,"waterarea":3398,"landarea":115884,"houseseats":18,"statehood":"1787-12-12","group":"US States"}
-{"name":"Rhode Island","abbreviation":"RI","capital":"Providence","city":"Providence","population":1051511,"area":4002,"waterarea":1320,"landarea":2678,"houseseats":2,"statehood":"1790-05-29","group":"US States"}
-{"name":"South Carolina","abbreviation":"SC","capital":"Columbia","city":"Columbia","population":4774839,"area":82931,"waterarea":5076,"landarea":77858,"houseseats":7,"statehood":"1788-05-23","group":"US States"}
-{"name":"South Dakota","abbreviation":"SD","capital":"Pierre","city":"Sioux Falls","population":844877,"area":199730,"waterarea":3380,"landarea":196350,"houseseats":1,"statehood":"1889-11-02","group":"US States"}
-{"name":"Tennessee","abbreviation":"TN","capital":"Nashville","city":"Memphis","population":6495978,"area":109152,"waterarea":2354,"landarea":106798,"houseseats":9,"statehood":"1796-06-01","group":"US States"}
-{"name":"Texas","abbreviation":"TX","capital":"Austin","city":"Houston","population":26448193,"area":695660,"waterarea":19075,"landarea":676588,"houseseats":36,"statehood":"1845-12-29","group":"US States"}
-{"name":"Utah","abbreviation":"UT","capital":"Salt Lake City","city":"Salt Lake City","population":2900872,"area":219882,"waterarea":7063,"landarea":212819,"houseseats":4,"statehood":"1896-01-04","group":"US States"}
-{"name":"Vermont","abbreviation":"VT","capital":"Montpelier","city":"Burlington","population":626630,"area":24905,"waterarea":1036,"landarea":23872,"houseseats":1,"statehood":"1791-03-04","group":"US States"}
-{"name":"Virginia","abbreviation":"VA","capital":"Richmond","city":"Virginia Beach","population":8260405,"area":110787,"waterarea":8508,"landarea":102279,"houseseats":11,"statehood":"1788-06-25","group":"US States"}
-{"name":"Washington","abbreviation":"WA","capital":"Olympia","city":"Seattle","population":6971406,"area":184661,"waterarea":12541,"landarea":172120,"houseseats":10,"statehood":"1889-11-11","group":"US States"}
-{"name":"West Virginia","abbreviation":"WV","capital":"Charleston","city":"Charleston","population":1854304,"area":62755,"waterarea":497,"landarea":62258,"houseseats":3,"statehood":"1863-06-20","group":"US States"}
-{"name":"Wisconsin","abbreviation":"WI","capital":"Madison","city":"Milwaukee","population":5742713,"area":169634,"waterarea":29368,"landarea":140269,"houseseats":8,"statehood":"1848-05-29","group":"US States"}
-{"name":"Wyoming","abbreviation":"WY","capital":"Cheyenne","city":"Cheyenne","population":582658,"area":253335,"waterarea":1865,"landarea":251470,"houseseats":1,"statehood":"1890-07-10","group":"US States"}
+{"name":"Alabama","abbreviation":"AL","capital":"Montgomery","city":"Birmingham","population":4833722,"area":135767,"waterarea":4597,"landarea":131170,"houseseats":7,"statehood":"1819-12-14"}
+{"name":"Alaska","abbreviation":"AK","capital":"Juneau","city":"Anchorage","population":735132,"area":1723337,"waterarea":245383,"landarea":1477950,"houseseats":1,"statehood":"1959-01-03"}
+{"name":"Arizona","abbreviation":"AZ","capital":"Phoenix","city":"Phoenix","population":6626624,"area":295233,"waterarea":1026,"landarea":294207,"houseseats":9,"statehood":"1912-02-14"}
+{"name":"Arkansas","abbreviation":"AR","capital":"Little Rock","city":"Little Rock","population":2959373,"area":137733,"waterarea":2960,"landarea":134770,"houseseats":4,"statehood":"1836-06-15"}
+{"name":"California","abbreviation":"CA","capital":"Sacramento","city":"Los Angeles","population":38332521,"area":423968,"waterarea":20502,"landarea":403466,"houseseats":53,"statehood":"1850-09-09"}
+{"name":"Colorado","abbreviation":"CO","capital":"Denver","city":"Denver","population":5268367,"area":269602,"waterarea":1171,"landarea":268432,"houseseats":7,"statehood":"1876-08-01"}
+{"name":"Connecticut","abbreviation":"CT","capital":"Hartford","city":"Bridgeport","population":3596080,"area":14356,"waterarea":1816,"landarea":12541,"houseseats":5,"statehood":"1788-01-09"}
+{"name":"Delaware","abbreviation":"DE","capital":"Dover","city":"Wilmington","population":925749,"area":6446,"waterarea":1399,"landarea":5048,"houseseats":1,"statehood":"1787-12-07"}
+{"name":"Florida","abbreviation":"FL","capital":"Tallahassee","city":"Jacksonville","population":19552860,"area":170312,"waterarea":31424,"landarea":138888,"houseseats":27,"statehood":"1845-03-03"}
+{"name":"Georgia","abbreviation":"GA","capital":"Atlanta","city":"Atlanta","population":9992167,"area":153910,"waterarea":4950,"landarea":148958,"houseseats":14,"statehood":"1788-01-02"}
+{"name":"Hawaii","abbreviation":"HI","capital":"Honolulu","city":"Honolulu","population":1404054,"area":28314,"waterarea":11678,"landarea":16635,"houseseats":2,"statehood":"1959-08-20"}
+{"name":"Idaho","abbreviation":"ID","capital":"Boise","city":"Boise","population":1612136,"area":216443,"waterarea":2398,"landarea":214044,"houseseats":2,"statehood":"1890-07-03"}
+{"name":"Illinois","abbreviation":"IL","capital":"Springfield","city":"Chicago","population":12882135,"area":149997,"waterarea":6203,"landarea":143794,"houseseats":18,"statehood":"1818-12-03"}
+{"name":"Indiana","abbreviation":"IN","capital":"Indianapolis","city":"Indianapolis","population":6570902,"area":94327,"waterarea":1536,"landarea":92789,"houseseats":9,"statehood":"1816-12-11"}
+{"name":"Iowa","abbreviation":"IA","capital":"Des Moines","city":"Des Moines","population":3090416,"area":145746,"waterarea":1077,"landarea":144669,"houseseats":4,"statehood":"1846-12-28"}
+{"name":"Kansas","abbreviation":"KS","capital":"Topeka","city":"Wichita","population":2893957,"area":213099,"waterarea":1347,"landarea":211755,"houseseats":4,"statehood":"1861-01-29"}
+{"name":"Kentucky","abbreviation":"KY","capital":"Frankfort","city":"Louisville","population":4395295,"area":104656,"waterarea":2385,"landarea":102268,"houseseats":6,"statehood":"1792-06-01"}
+{"name":"Louisiana","abbreviation":"LA","capital":"Baton Rouge","city":"New Orleans","population":4625470,"area":135658,"waterarea":23761,"landarea":111898,"houseseats":6,"statehood":"1812-04-30"}
+{"name":"Maine","abbreviation":"ME","capital":"Augusta","city":"Portland","population":1328302,"area":91634,"waterarea":11751,"landarea":79883,"houseseats":2,"statehood":"1820-03-15"}
+{"name":"Maryland","abbreviation":"MD","capital":"Annapolis","city":"Baltimore","population":5928814,"area":32131,"waterarea":6990,"landarea":25141,"houseseats":8,"statehood":"1788-04-28"}
+{"name":"Massachusetts","abbreviation":"MA","capital":"Boston","city":"Boston","population":6692824,"area":27335,"waterarea":7133,"landarea":20202,"houseseats":9,"statehood":"1788-02-06"}
+{"name":"Michigan","abbreviation":"MI","capital":"Lansing","city":"Detroit","population":9895622,"area":250488,"waterarea":104053,"landarea":146435,"houseseats":14,"statehood":"1837-01-26"}
+{"name":"Minnesota","abbreviation":"MN","capital":"St. Paul","city":"Minneapolis","population":5420380,"area":225163,"waterarea":18930,"landarea":206233,"houseseats":8,"statehood":"1858-05-11"}
+{"name":"Mississippi","abbreviation":"MS","capital":"Jackson","city":"Jackson","population":2991207,"area":125438,"waterarea":3908,"landarea":121530,"houseseats":4,"statehood":"1817-12-10"}
+{"name":"Missouri","abbreviation":"MO","capital":"Jefferson City","city":"Kansas City","population":6021988,"area":180540,"waterarea":2499,"landarea":178041,"houseseats":8,"statehood":"1821-08-10"}
+{"name":"Montana","abbreviation":"MT","capital":"Helena","city":"Billings","population":1015165,"area":380832,"waterarea":3869,"landarea":376962,"houseseats":1,"statehood":"1889-11-08"}
+{"name":"Nebraska","abbreviation":"NE","capital":"Lincoln","city":"Omaha","population":1868516,"area":200330,"waterarea":1357,"landarea":198973,"houseseats":3,"statehood":"1867-03-01"}
+{"name":"Nevada","abbreviation":"NV","capital":"Carson City","city":"Las Vegas","population":2790136,"area":286380,"waterarea":2049,"landarea":284331,"houseseats":4,"statehood":"1864-10-31"}
+{"name":"New Hampshire","abbreviation":"NH","capital":"Concord","city":"Manchester","population":1323459,"area":24214,"waterarea":1028,"landarea":23188,"houseseats":2,"statehood":"1788-06-21"}
+{"name":"New Jersey","abbreviation":"NJ","capital":"Trenton","city":"Newark","population":8899339,"area":22592,"waterarea":3543,"landarea":19047,"houseseats":12,"statehood":"1787-12-18"}
+{"name":"New Mexico","abbreviation":"NM","capital":"Santa Fe","city":"Albuquerque","population":2085287,"area":314917,"waterarea":756,"landarea":314160,"houseseats":3,"statehood":"1912-01-06"}
+{"name":"New York","abbreviation":"NY","capital":"Albany","city":"New York","population":19651127,"area":141297,"waterarea":19241,"landarea":122056,"houseseats":27,"statehood":"1788-07-26"}
+{"name":"North Carolina","abbreviation":"NC","capital":"Raleigh","city":"Charlotte","population":9848060,"area":139391,"waterarea":13471,"landarea":125920,"houseseats":13,"statehood":"1789-11-21"}
+{"name":"North Dakota","abbreviation":"ND","capital":"Bismarck","city":"Fargo","population":723393,"area":183107,"waterarea":4398,"landarea":178712,"houseseats":1,"statehood":"1889-11-02"}
+{"name":"Ohio","abbreviation":"OH","capital":"Columbus","city":"Columbus","population":11570808,"area":116099,"waterarea":10269,"landarea":105830,"houseseats":16,"statehood":"1803-03-01"}
+{"name":"Oklahoma","abbreviation":"OK","capital":"Oklahoma City","city":"Oklahoma City","population":3850568,"area":181038,"waterarea":3377,"landarea":177660,"houseseats":5,"statehood":"1907-11-16"}
+{"name":"Oregon","abbreviation":"OR","capital":"Salem","city":"Portland","population":3930065,"area":254800,"waterarea":6193,"landarea":248608,"houseseats":5,"statehood":"1859-02-14"}
+{"name":"Pennsylvania","abbreviation":"PA","capital":"Harrisburg","city":"Philadelphia","population":12773801,"area":119279,"waterarea":3398,"landarea":115884,"houseseats":18,"statehood":"1787-12-12"}
+{"name":"Rhode Island","abbreviation":"RI","capital":"Providence","city":"Providence","population":1051511,"area":4002,"waterarea":1320,"landarea":2678,"houseseats":2,"statehood":"1790-05-29"}
+{"name":"South Carolina","abbreviation":"SC","capital":"Columbia","city":"Columbia","population":4774839,"area":82931,"waterarea":5076,"landarea":77858,"houseseats":7,"statehood":"1788-05-23"}
+{"name":"South Dakota","abbreviation":"SD","capital":"Pierre","city":"Sioux Falls","population":844877,"area":199730,"waterarea":3380,"landarea":196350,"houseseats":1,"statehood":"1889-11-02"}
+{"name":"Tennessee","abbreviation":"TN","capital":"Nashville","city":"Memphis","population":6495978,"area":109152,"waterarea":2354,"landarea":106798,"houseseats":9,"statehood":"1796-06-01"}
+{"name":"Texas","abbreviation":"TX","capital":"Austin","city":"Houston","population":26448193,"area":695660,"waterarea":19075,"landarea":676588,"houseseats":36,"statehood":"1845-12-29"}
+{"name":"Utah","abbreviation":"UT","capital":"Salt Lake City","city":"Salt Lake City","population":2900872,"area":219882,"waterarea":7063,"landarea":212819,"houseseats":4,"statehood":"1896-01-04"}
+{"name":"Vermont","abbreviation":"VT","capital":"Montpelier","city":"Burlington","population":626630,"area":24905,"waterarea":1036,"landarea":23872,"houseseats":1,"statehood":"1791-03-04"}
+{"name":"Virginia","abbreviation":"VA","capital":"Richmond","city":"Virginia Beach","population":8260405,"area":110787,"waterarea":8508,"landarea":102279,"houseseats":11,"statehood":"1788-06-25"}
+{"name":"Washington","abbreviation":"WA","capital":"Olympia","city":"Seattle","population":6971406,"area":184661,"waterarea":12541,"landarea":172120,"houseseats":10,"statehood":"1889-11-11"}
+{"name":"West Virginia","abbreviation":"WV","capital":"Charleston","city":"Charleston","population":1854304,"area":62755,"waterarea":497,"landarea":62258,"houseseats":3,"statehood":"1863-06-20"}
+{"name":"Wisconsin","abbreviation":"WI","capital":"Madison","city":"Milwaukee","population":5742713,"area":169634,"waterarea":29368,"landarea":140269,"houseseats":8,"statehood":"1848-05-29"}
+{"name":"Wyoming","abbreviation":"WY","capital":"Cheyenne","city":"Cheyenne","population":582658,"area":253335,"waterarea":1865,"landarea":251470,"houseseats":1,"statehood":"1890-07-10"}
